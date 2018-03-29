@@ -1,0 +1,1 @@
+api registration (jwt-auth, TDD)
